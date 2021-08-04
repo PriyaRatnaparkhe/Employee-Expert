@@ -11,8 +11,8 @@ return false;
 }
 return true;
 }
-function cancelAddition()
+function cancelUpdation()
 {
-document.getElementById('cancelAdditionForm').submit();
+document.getElementById('cancelUpdationForm').submit();
 }
 
