@@ -10,10 +10,11 @@ Tools and Technology used
 8. The username and password set for login is:
 9. "username"-admin
 10. "passowrd"- admin
-11. These can be changed if needed.<br>
+11. These can be changed.<br>
 12. Details related to user and table structure of database. <br>
-13. For using the application the user at first need to create three tables in mysql namely  Designation, Administrator, Employee
+13. The user need to create three tables using mysql. The tables are identified as Designation, Administrator, Employee.
 14. The name of the database is hrdb
 15. The name of the user is hrr
 16. The password for the user is hrr
 17. The tables are directly created using mysqlsh so is no such file named as .sql
+Usage:-After downloading the zip file , extract that file ,a folder structure is seen.Look for the root folder of WEB-INF ,rename that folder as Employee-Expert for proper and smooth functionality.
