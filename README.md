@@ -18,3 +18,5 @@ Tools and Technology used
 16. The password for the user is hrr
 17. The tables are directly created using mysqlsh so is no such file named as .sql
 Usage:-After downloading the zip file , extract that file ,a folder structure is seen.Look for the root folder of WEB-INF ,rename that folder as Employee-Expert for proper and smooth functionality.
+The drive link to the working video for "Employee Expert" is:-
+https://drive.google.com/file/d/1avId6bOkodYmZFK6vWKXB3pF-lAsLfGi/view?usp=sharing
